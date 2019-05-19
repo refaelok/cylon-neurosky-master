@@ -1,7 +1,7 @@
 {
   "name": "cylon-neurosky-master",
-  "version": "0.15.0",
-  "description": "Cylon module for Neurosky",
+  "version": "0.16.0",
+  "description": "Updated Cylon module for Neurosky to support node 10",
   "homepage": "http://cylonjs.com",
   "bugs": "https://github.com/hybridgroup/cylon-neurosky-master/issues",
   "author": {
