@@ -1,5 +1,7 @@
 # Cylon.js For Neurosky Mindwave Mobile
 
+##### NOTE: This is a cloned version for support also with new node versions today.
+
 Cylon.js (http://cylonjs.com) is a JavaScript framework for robotics, physical computing, and the Internet of Things (IoT).
 
 This repository contains the Cylon.js adaptor/driver for the Neurosky Mindwave Mobile EEG (http://store.neurosky.com/products/mindwave-mobile).
